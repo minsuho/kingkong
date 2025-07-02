@@ -5,7 +5,7 @@
     "name": "kingkong (Minecraft 1.20.1)",
     "description": "kingkong Running Minecraft 1.20.1 (Forge v47.4.3)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "1.251.254.185",
+    "address": "",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
