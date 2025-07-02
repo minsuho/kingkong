@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/11/Documents/GitHub/kingkong/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "kingkong (Minecraft 1.20.1)",
+    "description": "kingkong Running Minecraft 1.20.1 (Forge v47.4.3)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "1.251.254.185",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.3"
+  },
+  "untrackedFiles": []
+}

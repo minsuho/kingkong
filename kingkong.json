@@ -1,0 +1,890 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "kingkong-1.20.1",
+      "name": "kingkong (Minecraft 1.20.1)",
+      "description": "kingkong Running Minecraft 1.20.1 (Forge v47.4.3)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "1.251.254.185",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.3",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 7400,
+            "MD5": "0373621055c95da5574accac36b7dbb8",
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.3/lowcodelanguage-1.20.1-47.4.3.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-47.4.3",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 16612,
+                "MD5": "271d98d1c85eea77433582b15867165a",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/versions/1.20.1-forge-47.4.3/1.20.1-forge-47.4.3.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.3",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 118914,
+                "MD5": "f6b20cc1f12b71712c2c2fb2bcc69249",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.3/fmlcore-1.20.1-47.4.3.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.3",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16856,
+                "MD5": "ba9b9b6b043b7b1dbf32a51819b1f8bb",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.3/javafmllanguage-1.20.1-47.4.3.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.3",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 4999,
+                "MD5": "a1523e6565d5c1375bb140d5acca160d",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.3/mclanguage-1.20.1-47.4.3.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.4.3:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2777386,
+                "MD5": "c795310c779a99319dfc126175ca83d7",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.4.3:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 4840443,
+                "MD5": "d0d958e022a43fc2dd269163d2014026",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12592249,
+                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.10",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 88749,
+                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7.1",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7.1",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.0.5",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.0.1",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 29831,
+                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.2.4",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 31872,
+                "MD5": "5295505357ba9b98450c5e3121f82191",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.9",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 130343,
+                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "Minecraft Forge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.4",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167292,
+                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "MD5": "48f5255aa337344c467c0150d347813d",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.3",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 267079,
+                "MD5": "8626d77dd5b44c96743e3848319f5af3",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.3/fmlloader-1.20.1-47.4.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.3",
+              "name": "Minecraft Forge (fmlearlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 170518,
+                "MD5": "f685a75e85819299dafbae8b9ddaf9f3",
+                "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.3/fmlearlydisplay-1.20.1-47.4.3.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "team.creative:ambientsounds:6.1.4@jar",
+          "name": "AmbientSounds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 83885724,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar",
+            "MD5": "10709a88a6c11f0c4d6cf9759297a704"
+          }
+        },
+        {
+          "id": "moe.plushie.armourers_workshop.compatibility:armourers_workshop:3.2.0-beta@jar",
+          "name": "Armourer's Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5810422,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-3.2.0-beta.jar",
+            "MD5": "530d5f07e42ee3d4a85f7b42e7c15d6b"
+          }
+        },
+        {
+          "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
+          "name": "CaramelChat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 349040,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/caramelChat-mc1.20.1-forge-1.2.2.jar",
+            "MD5": "900ae1599e3aa619e1669907fd5033ec"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre36@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2613393,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
+            "MD5": "faf78627dad9c9c04e7a4fa8992c54dc"
+          }
+        },
+        {
+          "id": "team.creative:creativecore:2.12.31@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1158550,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.31_mc1.20.1.jar",
+            "MD5": "1ba328e0a3dfb34261c234b5f02f8935"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.19+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1280293,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/embeddium-0.3.19+mc1.20.1-all.jar",
+            "MD5": "1b272575bea5f1e7c61a4d189b712343"
+          }
+        },
+        {
+          "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
+          "name": "Emotecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 680255,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "MD5": "636c62379cd7c5201a70fd457808e331"
+          }
+        },
+        {
+          "id": "io.github.mortuusars:exposure:1.7.16@jar",
+          "name": "Exposure",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1360685,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/exposure-1.20.1-1.7.16-forge.jar",
+            "MD5": "5e0d88ba6f4cfe04c6d8158f91b038db"
+          }
+        },
+        {
+          "id": "net.flashlight:flashlight:4.6@jar",
+          "name": "Flashlight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 127919,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/flashlight-4.6-forge-1.20.1.jar",
+            "MD5": "ca2b6eb11ce0c088bc197eee4c5e487d"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:framework:0.7.12@jar",
+          "name": "Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 308420,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
+            "MD5": "1b6b6ccc60c5a6ef2c232553f8a060f4"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.7@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1004042,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.jar",
+            "MD5": "96dddfb78d375bdd330ae1577ee28bfe"
+          }
+        },
+        {
+          "id": "com.modrinth.z5l00wq2:mr_glowing_players:1.0.0@jar",
+          "name": "Glowing Players",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 109375,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/glowing_players-1.0.0.jar",
+            "MD5": "f4418bdae7921a69cb6cdc9eeec9d393"
+          }
+        },
+        {
+          "id": "com.github.jackiejk.glowyplayersrenewed:glowyplayers:1.0.1@jar",
+          "name": "Glowy-Players-Renewed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 516977,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/Glowy-Players-Renewed-forge-1.20.1-1.0.1.jar",
+            "MD5": "2e2900b6928583d87d32f4b12aa087a5"
+          }
+        },
+        {
+          "id": "com.gitter:gthud:1.0-SNAPSHOT@jar",
+          "name": "GtHud",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66345,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/gthud-1.0-SNAPSHOT.jar",
+            "MD5": "0167d119e9e35901dd204416983c44cf"
+          }
+        },
+        {
+          "id": "com.gitter:gtnick:1.0-SNAPSHOT@jar",
+          "name": "GtNick Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29759,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/gtnick-1.0-SNAPSHOT.jar",
+            "MD5": "3bf1a12cbc8e5df2cea35ce170016e63"
+          }
+        },
+        {
+          "id": "com.corrinedev:gundurability:1.0.0@jar",
+          "name": "TACZ Durability",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 337333,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/gundurability-1.6.3.jar",
+            "MD5": "81b9dfba49914a1fcce2834aef9812d4"
+          }
+        },
+        {
+          "id": "generated.forgemod:highlight:2.0.1@jar",
+          "name": "Highlight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 296161,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/highlight-forge-1.20-2.0.1.jar",
+            "MD5": "51efcfecf948df6c80cce6c1be33e0af"
+          }
+        },
+        {
+          "id": "immersive_paintings:immersive_paintings:0.6.7+1.20.1@jar",
+          "name": "Immersive Paintings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4841253,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
+            "MD5": "e010b70ceecf34f91f223b8981f50f40"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.9.20@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7138304,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/journeymap-1.20.1-5.9.20-forge.jar",
+            "MD5": "852fdc318c2b9b5e0c1904c8929577ad"
+          }
+        },
+        {
+          "id": "de.keksuccino:justzoom:2.1.1@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 204574,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "MD5": "758fe904b5a22ce7b2df824c1a064858"
+          }
+        },
+        {
+          "id": "com.gitter:kingkong_resourcepack:1.0-SNAPSHOT@jar",
+          "name": "Kingkong_resourcepack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4204420,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/kingkong_resourcepack-1.0-SNAPSHOT.jar",
+            "MD5": "4c97fb95358833b495e2db8db579f5c2"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "com.codinglitch:lexiconfig:1.3.11@jar",
+          "name": "Lexiconfig",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38240,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/Lexiconfig-forge-1.3.11.jar",
+            "MD5": "729bdf3a3c0adb82d1c43ded9dc50b4b"
+          }
+        },
+        {
+          "id": "com.cinemamod:mcef:2.1.6-1.20.1@jar",
+          "name": "MCEF (Minecraft Chromium Embedded Framework)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 218417,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/mcef-forge-2.1.6-1.20.1.jar",
+            "MD5": "341d01e98e3835162cf8eb439e20dbfe"
+          }
+        },
+        {
+          "id": "com.mcwbridges.kikoz:mcwbridges:3.0.0@jar",
+          "name": "Macaw's Bridges",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 677705,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/mcw-bridges-3.0.0-mc1.20.1forge.jar",
+            "MD5": "27a5798467fc0799eab2505bb6a8f041"
+          }
+        },
+        {
+          "id": "com.mcwdoors.kikoz:mcwdoors:1.1.1@jar",
+          "name": "Macaw's Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1202279,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/mcw-doors-1.1.1forge-mc1.20.1.jar",
+            "MD5": "70a4d52ca95ecd57bcbb146e9c6950ce"
+          }
+        },
+        {
+          "id": "com.mcwfences.kikoz:mcwfences:1.1.2@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 522886,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/mcw-fences-1.1.2-mc1.20.1forge.jar",
+            "MD5": "729a8ce749bb6deff288ea1791ff9602"
+          }
+        },
+        {
+          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.3.0@jar",
+          "name": "Macaw's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1882792,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
+            "MD5": "f22230d8f84190aef6e62ca95e5da136"
+          }
+        },
+        {
+          "id": "com.mcwstairs.kikoz:mcwstairs:1.0.0@jar",
+          "name": "Macaw's Stairs and Balconies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 550919,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/mcw-stairs-1.0.0-1.20.1forge.jar",
+            "MD5": "b06da901c7f278243b943c93abcc31eb"
+          }
+        },
+        {
+          "id": "com.mcwwindows.kikoz:mcwwindows:2.3.0@jar",
+          "name": "Macaw's Windows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1309586,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/mcw-windows-2.3.0-mc1.20.1forge.jar",
+            "MD5": "82f6f7c58030345ddb6efa0b2ded97fd"
+          }
+        },
+        {
+          "id": "net.mcreator.militaryarmormod:military_armor_mod:1.0.0@jar",
+          "name": "Military armor mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 104059,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/military_armor_mod-1.9.1-forge-1.20.1.jar",
+            "MD5": "91a4b7f90c5d83898c0c05ee266dff5c"
+          }
+        },
+        {
+          "id": "net.coderbot.iris:oculus:1.6.15a@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2806358,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/oculus-mc1.20.1-1.6.15a.jar",
+            "MD5": "b6d1e02b5fccf72570fa19606006d711"
+          }
+        },
+        {
+          "id": "net.mcreator:parachutemod:1.0.0@jar",
+          "name": "ParachuteMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 69924,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/Parachute%20Forge.jar",
+            "MD5": "12123adb2048c0bc9e97e34c5e6173d2"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.3@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11913213,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
+            "MD5": "cb0f52b7f015a7483662a0afdbcf877c"
+          }
+        },
+        {
+          "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
+          "name": "Player Animator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 181437,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "MD5": "46f8554181d4d240075ea4919d01fd01"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.8@jar",
+          "name": "MrCrayfish's Furniture Mod: Refurbished",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6681214,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.8.jar",
+            "MD5": "135e50d0323ff403e7771649419bc69d"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.23.19.1251@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 924306,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.19.1251.jar",
+            "MD5": "aefae3e04d737f25b4051b1af5c4ac1d"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.69.1005@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1326167,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.69.1005.jar",
+            "MD5": "8e074c0a38d85447f0cc971db228044d"
+          }
+        },
+        {
+          "id": "com.tacz.guns:tacz:1.0.3@jar",
+          "name": "Timeless & Classics Guns: Zero",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29012632,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/tacz-1.20.1-1.0.3-all.jar",
+            "MD5": "2db5220caffce0bc2dec2f6ab4f84266"
+          }
+        },
+        {
+          "id": "net.thetct:tctcore:2.0@jar",
+          "name": "Tctcore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 170859,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/TCTcore-1.20.1.jar",
+            "MD5": "d02c4a4707e78a1c4a0cd4aa471de428"
+          }
+        },
+        {
+          "id": "com.github.ngoedix.watchvideo:videoplayer:3.0.5@jar",
+          "name": "VideoPlayer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 213457,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/VideoPlayer-3.0.5-FORGE-1.20.X.jar",
+            "MD5": "19725092b398a350a1aaa76a13a5e736"
+          }
+        },
+        {
+          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.75@jar",
+          "name": "WaterMedia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27600243,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/watermedia-2.0.75.jar",
+            "MD5": "05ed7ef455800168b37d15da335a0553"
+          }
+        },
+        {
+          "id": "net.montoyo.wd:webdisplays:2.0.1-1.20.1@jar",
+          "name": "WebDisplays",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 811968,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/forgemods/required/webdisplays-2.0.2-1.20.1.jar",
+            "MD5": "e10830a26736c48d5726755a81f20429"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 4062,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/files/servers.dat",
+            "MD5": "f733f723a75d550f528b38e4f401d3e3",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "servers.dat_old",
+          "name": "servers.dat_old",
+          "type": "File",
+          "artifact": {
+            "size": 4063,
+            "url": "https://raw.githubusercontent.com/minsuho/kingkong/main/servers/kingkong-1.20.1/files/servers.dat_old",
+            "MD5": "89d1243a76b1e29d3715c4fc9adb5d79",
+            "path": "servers.dat_old"
+          }
+        }
+      ]
+    }
+  ]
+}
