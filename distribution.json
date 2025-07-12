@@ -573,13 +573,13 @@
           }
         },
         {
-          "id": "com.gitter:gtnick:1.0-SNAPSHOT@jar",
+          "id": "com.gitter:gtnick:1.1-SNAPSHOT@jar",
           "name": "GtNick Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 29759,
-            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/gtnick-1.0-SNAPSHOT.jar",
-            "MD5": "3bf1a12cbc8e5df2cea35ce170016e63"
+            "size": 34794,
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/gtnick-1.1-SNAPSHOT.jar",
+            "MD5": "38d9bf82e61b2c904ce441d2b128dc3a"
           }
         },
         {
@@ -1646,9 +1646,9 @@
           "name": "kingkong_pack.zip",
           "type": "File",
           "artifact": {
-            "size": 4191583,
+            "size": 4336545,
             "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/resourcepacks/kingkong_pack.zip",
-            "MD5": "fd699f80cd915bb4f8f9230e742a65e7",
+            "MD5": "8f56b53ce8a41d9963e336840d05e0cf",
             "path": "resourcepacks/kingkong_pack.zip"
           }
         },
