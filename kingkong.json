@@ -898,9 +898,9 @@
           "name": "kingkong_pack.zip",
           "type": "File",
           "artifact": {
-            "size": 18582408,
+            "size": 19668050,
             "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/resourcepacks/kingkong_pack.zip",
-            "MD5": "661ca32517c75917a3a9c49b8fbfaad3",
+            "MD5": "e7ba86e300c58fa6e2a6ecb55d00bb10",
             "path": "resourcepacks/kingkong_pack.zip"
           }
         },
