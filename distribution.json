@@ -847,7 +847,7 @@
           "name": "emotecraft.json",
           "type": "File",
           "artifact": {
-            "size": 1571,
+            "size": 1146,
             "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/config/emotecraft.json",
             "path": "config/emotecraft.json"
           }
@@ -857,9 +857,19 @@
           "name": "emotecraft_emote_map.json",
           "type": "File",
           "artifact": {
-            "size": 117,
+            "size": 120,
             "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/config/emotecraft_emote_map.json",
             "path": "config/emotecraft_emote_map.json"
+          }
+        },
+        {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 283,
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/config/oculus.properties",
+            "path": "config/oculus.properties"
           }
         },
         {
@@ -1637,7 +1647,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 6145,
+            "size": 6179,
             "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -1673,6 +1683,28 @@
             "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/servers.dat_old",
             "MD5": "89d1243a76b1e29d3715c4fc9adb5d79",
             "path": "servers.dat_old"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.4.zip",
+          "name": "ComplementaryUnbound_r5.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 452408,
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
+            "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
+          }
+        },
+        {
+          "id": "Insanity-Shader-Universal-v1.500.zip",
+          "name": "Insanity-Shader-Universal-v1.500.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1037011,
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.500.zip",
+            "MD5": "f40d99b836ebfb633d4bb49469541221",
+            "path": "shaderpacks/Insanity-Shader-Universal-v1.500.zip"
           }
         }
       ]
