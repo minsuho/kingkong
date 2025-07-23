@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7400,
             "MD5": "0373621055c95da5574accac36b7dbb8",
-            "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.3/lowcodelanguage-1.20.1-47.4.3.jar"
+            "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.3/lowcodelanguage-1.20.1-47.4.3.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16612,
                 "MD5": "271d98d1c85eea77433582b15867165a",
-                "url": "https://usmsori.com/kingkong/repo/versions/1.20.1-forge-47.4.3/1.20.1-forge-47.4.3.json"
+                "url": "http://mc.gitter0.xyz:8080/repo/versions/1.20.1-forge-47.4.3/1.20.1-forge-47.4.3.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 118914,
                 "MD5": "f6b20cc1f12b71712c2c2fb2bcc69249",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.3/fmlcore-1.20.1-47.4.3.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.3/fmlcore-1.20.1-47.4.3.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16856,
                 "MD5": "ba9b9b6b043b7b1dbf32a51819b1f8bb",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.3/javafmllanguage-1.20.1-47.4.3.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.3/javafmllanguage-1.20.1-47.4.3.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 4999,
                 "MD5": "a1523e6565d5c1375bb140d5acca160d",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.3/mclanguage-1.20.1-47.4.3.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.3/mclanguage-1.20.1-47.4.3.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2777386,
                 "MD5": "c795310c779a99319dfc126175ca83d7",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-universal.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4840443,
                 "MD5": "d0d958e022a43fc2dd269163d2014026",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-client.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/forge/1.20.1-47.4.3/forge-1.20.1-47.4.3-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://usmsori.com/kingkong/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 31872,
                 "MD5": "5295505357ba9b98450c5e3121f82191",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://usmsori.com/kingkong/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://usmsori.com/kingkong/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://usmsori.com/kingkong/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://usmsori.com/kingkong/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://usmsori.com/kingkong/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 267079,
                 "MD5": "8626d77dd5b44c96743e3848319f5af3",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.3/fmlloader-1.20.1-47.4.3.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.3/fmlloader-1.20.1-47.4.3.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170518,
                 "MD5": "f685a75e85819299dafbae8b9ddaf9f3",
-                "url": "https://usmsori.com/kingkong/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.3/fmlearlydisplay-1.20.1-47.4.3.jar"
+                "url": "http://mc.gitter0.xyz:8080/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.3/fmlearlydisplay-1.20.1-47.4.3.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 83885724,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/AmbientSounds_FORGE_v6.1.4_mc1.20.1.jar",
             "MD5": "10709a88a6c11f0c4d6cf9759297a704"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5810422,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-3.2.0-beta.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-3.2.0-beta.jar",
             "MD5": "530d5f07e42ee3d4a85f7b42e7c15d6b"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 349040,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/caramelChat-mc1.20.1-forge-1.2.2.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/caramelChat-mc1.20.1-forge-1.2.2.jar",
             "MD5": "900ae1599e3aa619e1669907fd5033ec"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2613393,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
             "MD5": "faf78627dad9c9c04e7a4fa8992c54dc"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1158550,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.31_mc1.20.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.31_mc1.20.1.jar",
             "MD5": "1ba328e0a3dfb34261c234b5f02f8935"
           }
         },
@@ -488,7 +488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1280293,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/embeddium-0.3.19+mc1.20.1-all.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/embeddium-0.3.19+mc1.20.1-all.jar",
             "MD5": "1b272575bea5f1e7c61a4d189b712343"
           }
         },
@@ -498,7 +498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 680255,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
             "MD5": "636c62379cd7c5201a70fd457808e331"
           }
         },
@@ -508,7 +508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1360685,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/exposure-1.20.1-1.7.16-forge.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/exposure-1.20.1-1.7.16-forge.jar",
             "MD5": "5e0d88ba6f4cfe04c6d8158f91b038db"
           }
         },
@@ -518,7 +518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 127919,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/flashlight-4.6-forge-1.20.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/flashlight-4.6-forge-1.20.1.jar",
             "MD5": "ca2b6eb11ce0c088bc197eee4c5e487d"
           }
         },
@@ -528,7 +528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 308420,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
             "MD5": "1b6b6ccc60c5a6ef2c232553f8a060f4"
           }
         },
@@ -538,7 +538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1004042,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.jar",
             "MD5": "96dddfb78d375bdd330ae1577ee28bfe"
           }
         },
@@ -548,7 +548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 109375,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/glowing_players-1.0.0.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/glowing_players-1.0.0.jar",
             "MD5": "f4418bdae7921a69cb6cdc9eeec9d393"
           }
         },
@@ -558,7 +558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 516977,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/Glowy-Players-Renewed-forge-1.20.1-1.0.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/Glowy-Players-Renewed-forge-1.20.1-1.0.1.jar",
             "MD5": "2e2900b6928583d87d32f4b12aa087a5"
           }
         },
@@ -568,7 +568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 66345,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/gthud-1.0-SNAPSHOT.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/gthud-1.0-SNAPSHOT.jar",
             "MD5": "0167d119e9e35901dd204416983c44cf"
           }
         },
@@ -578,7 +578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 34794,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/gtnick-1.1-SNAPSHOT.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/gtnick-1.1-SNAPSHOT.jar",
             "MD5": "38d9bf82e61b2c904ce441d2b128dc3a"
           }
         },
@@ -588,7 +588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 337333,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/gundurability-1.6.3.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/gundurability-1.6.3.jar",
             "MD5": "81b9dfba49914a1fcce2834aef9812d4"
           }
         },
@@ -598,7 +598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 296161,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/highlight-forge-1.20-2.0.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/highlight-forge-1.20-2.0.1.jar",
             "MD5": "51efcfecf948df6c80cce6c1be33e0af"
           }
         },
@@ -608,7 +608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4841253,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
             "MD5": "e010b70ceecf34f91f223b8981f50f40"
           }
         },
@@ -618,7 +618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 204574,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
             "MD5": "758fe904b5a22ce7b2df824c1a064858"
           }
         },
@@ -628,7 +628,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625185,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
           }
         },
@@ -638,7 +638,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 38240,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/Lexiconfig-forge-1.3.11.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/Lexiconfig-forge-1.3.11.jar",
             "MD5": "729bdf3a3c0adb82d1c43ded9dc50b4b"
           }
         },
@@ -648,7 +648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 218417,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/mcef-forge-2.1.6-1.20.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/mcef-forge-2.1.6-1.20.1.jar",
             "MD5": "341d01e98e3835162cf8eb439e20dbfe"
           }
         },
@@ -658,7 +658,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 677705,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/mcw-bridges-3.0.0-mc1.20.1forge.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/mcw-bridges-3.0.0-mc1.20.1forge.jar",
             "MD5": "27a5798467fc0799eab2505bb6a8f041"
           }
         },
@@ -668,7 +668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1202279,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/mcw-doors-1.1.1forge-mc1.20.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/mcw-doors-1.1.1forge-mc1.20.1.jar",
             "MD5": "70a4d52ca95ecd57bcbb146e9c6950ce"
           }
         },
@@ -678,7 +678,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 522886,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/mcw-fences-1.1.2-mc1.20.1forge.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/mcw-fences-1.1.2-mc1.20.1forge.jar",
             "MD5": "729a8ce749bb6deff288ea1791ff9602"
           }
         },
@@ -688,7 +688,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1882792,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
             "MD5": "f22230d8f84190aef6e62ca95e5da136"
           }
         },
@@ -698,7 +698,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 550919,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/mcw-stairs-1.0.0-1.20.1forge.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/mcw-stairs-1.0.0-1.20.1forge.jar",
             "MD5": "b06da901c7f278243b943c93abcc31eb"
           }
         },
@@ -708,7 +708,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1309586,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/mcw-windows-2.3.0-mc1.20.1forge.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/mcw-windows-2.3.0-mc1.20.1forge.jar",
             "MD5": "82f6f7c58030345ddb6efa0b2ded97fd"
           }
         },
@@ -718,7 +718,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 104059,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/military_armor_mod-1.9.1-forge-1.20.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/military_armor_mod-1.9.1-forge-1.20.1.jar",
             "MD5": "91a4b7f90c5d83898c0c05ee266dff5c"
           }
         },
@@ -728,7 +728,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2806358,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/oculus-mc1.20.1-1.6.15a.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/oculus-mc1.20.1-1.6.15a.jar",
             "MD5": "b6d1e02b5fccf72570fa19606006d711"
           }
         },
@@ -738,7 +738,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69924,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/Parachute%20Forge.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/Parachute%20Forge.jar",
             "MD5": "12123adb2048c0bc9e97e34c5e6173d2"
           }
         },
@@ -748,7 +748,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11913213,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
             "MD5": "cb0f52b7f015a7483662a0afdbcf877c"
           }
         },
@@ -758,7 +758,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181437,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
           }
         },
@@ -768,7 +768,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6681214,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.8.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.8.jar",
             "MD5": "135e50d0323ff403e7771649419bc69d"
           }
         },
@@ -778,7 +778,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 924306,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.19.1251.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.19.1251.jar",
             "MD5": "aefae3e04d737f25b4051b1af5c4ac1d"
           }
         },
@@ -788,7 +788,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1326167,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.69.1005.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.69.1005.jar",
             "MD5": "8e074c0a38d85447f0cc971db228044d"
           }
         },
@@ -798,7 +798,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29012632,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/tacz-1.20.1-1.0.3-all.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/tacz-1.20.1-1.0.3-all.jar",
             "MD5": "2db5220caffce0bc2dec2f6ab4f84266"
           }
         },
@@ -808,7 +808,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 170859,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/TCTcore-1.20.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/TCTcore-1.20.1.jar",
             "MD5": "d02c4a4707e78a1c4a0cd4aa471de428"
           }
         },
@@ -818,7 +818,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 213457,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/VideoPlayer-3.0.5-FORGE-1.20.X.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/VideoPlayer-3.0.5-FORGE-1.20.X.jar",
             "MD5": "19725092b398a350a1aaa76a13a5e736"
           }
         },
@@ -828,7 +828,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27600243,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/watermedia-2.0.75.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/watermedia-2.0.75.jar",
             "MD5": "05ed7ef455800168b37d15da335a0553"
           }
         },
@@ -838,7 +838,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 811968,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/forgemods/required/webdisplays-2.0.2-1.20.1.jar",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/forgemods/required/webdisplays-2.0.2-1.20.1.jar",
             "MD5": "e10830a26736c48d5726755a81f20429"
           }
         },
@@ -848,7 +848,7 @@
           "type": "File",
           "artifact": {
             "size": 1146,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/config/emotecraft.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/config/emotecraft.json",
             "path": "config/emotecraft.json"
           }
         },
@@ -858,7 +858,7 @@
           "type": "File",
           "artifact": {
             "size": 120,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/config/emotecraft_emote_map.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/config/emotecraft_emote_map.json",
             "path": "config/emotecraft_emote_map.json"
           }
         },
@@ -868,7 +868,7 @@
           "type": "File",
           "artifact": {
             "size": 283,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/config/oculus.properties",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/config/oculus.properties",
             "path": "config/oculus.properties"
           }
         },
@@ -878,7 +878,7 @@
           "type": "File",
           "artifact": {
             "size": 1037,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/bend_sit.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/bend_sit.json",
             "MD5": "e673b01c7ac9be7392ddcc5405165cab",
             "path": "emotes/bend_sit.json"
           }
@@ -889,7 +889,7 @@
           "type": "File",
           "artifact": {
             "size": 52230,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/Bhop.emotecraft",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/Bhop.emotecraft",
             "MD5": "203dad7d835817ef3213d4cb2a4b52f5",
             "path": "emotes/Bhop.emotecraft"
           }
@@ -900,7 +900,7 @@
           "type": "File",
           "artifact": {
             "size": 12946,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/bow1.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/bow1.json",
             "MD5": "a40f455af2ac8ca8c2fd39f770b1006b",
             "path": "emotes/bow1.json"
           }
@@ -911,7 +911,7 @@
           "type": "File",
           "artifact": {
             "size": 12957,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/bow2.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/bow2.json",
             "MD5": "0d059cda2c5feb4cc306600a336cdd9d",
             "path": "emotes/bow2.json"
           }
@@ -922,7 +922,7 @@
           "type": "File",
           "artifact": {
             "size": 30186,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/BPS_bloop.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/BPS_bloop.json",
             "MD5": "41bce6ee88a996496dc0f2f8c4042bdb",
             "path": "emotes/BPS_bloop.json"
           }
@@ -933,7 +933,7 @@
           "type": "File",
           "artifact": {
             "size": 57579,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/campfire_sit1.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/campfire_sit1.json",
             "MD5": "fe42e7879068bd3223affe76a1010201",
             "path": "emotes/campfire_sit1.json"
           }
@@ -944,7 +944,7 @@
           "type": "File",
           "artifact": {
             "size": 186343,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/club_penguin_dance.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/club_penguin_dance.json",
             "MD5": "24755eaab4a199b528ea667327994887",
             "path": "emotes/club_penguin_dance.json"
           }
@@ -955,7 +955,7 @@
           "type": "File",
           "artifact": {
             "size": 15927,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/cool_sit.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/cool_sit.json",
             "MD5": "d1edef4cfbc39e89d915d9bf879fec8a",
             "path": "emotes/cool_sit.json"
           }
@@ -966,7 +966,7 @@
           "type": "File",
           "artifact": {
             "size": 13103,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/cross.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/cross.json",
             "MD5": "d8156e2159028c352f57ab134e5d6697",
             "path": "emotes/cross.json"
           }
@@ -977,7 +977,7 @@
           "type": "File",
           "artifact": {
             "size": 22531,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/dab.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/dab.json",
             "MD5": "e397d276d5ccbaea223abc5aa4e42e35",
             "path": "emotes/dab.json"
           }
@@ -988,7 +988,7 @@
           "type": "File",
           "artifact": {
             "size": 52674,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/Depression.emotecraft",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/Depression.emotecraft",
             "MD5": "ee46573c3d6ef424cd76c8848e35739b",
             "path": "emotes/Depression.emotecraft"
           }
@@ -999,7 +999,7 @@
           "type": "File",
           "artifact": {
             "size": 54252,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/Despair.emotecraft",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/Despair.emotecraft",
             "MD5": "16ddba07037360568a6355bea40a370e",
             "path": "emotes/Despair.emotecraft"
           }
@@ -1010,7 +1010,7 @@
           "type": "File",
           "artifact": {
             "size": 93325,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/do_eternal_rest_and_respawn.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/do_eternal_rest_and_respawn.json",
             "MD5": "0fee6c1e905219fa0ea51fc83e575592",
             "path": "emotes/do_eternal_rest_and_respawn.json"
           }
@@ -1021,7 +1021,7 @@
           "type": "File",
           "artifact": {
             "size": 30870,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/F.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/F.json",
             "MD5": "800bb95ca2e287f7155c204cd71a58e2",
             "path": "emotes/F.json"
           }
@@ -1032,7 +1032,7 @@
           "type": "File",
           "artifact": {
             "size": 15682,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/Fast%20Salute.emotecraft",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/Fast%20Salute.emotecraft",
             "MD5": "c46160c8c264454b8cf480a91c2a5521",
             "path": "emotes/Fast Salute.emotecraft"
           }
@@ -1043,7 +1043,7 @@
           "type": "File",
           "artifact": {
             "size": 244604,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/floss.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/floss.json",
             "MD5": "789ba1f0ba99533577ed466c11f2be91",
             "path": "emotes/floss.json"
           }
@@ -1054,7 +1054,7 @@
           "type": "File",
           "artifact": {
             "size": 75730,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/floss_dance3.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/floss_dance3.json",
             "MD5": "9268c7ffd63fc622f395eed7fe5e6a40",
             "path": "emotes/floss_dance3.json"
           }
@@ -1065,7 +1065,7 @@
           "type": "File",
           "artifact": {
             "size": 15331,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/grace.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/grace.json",
             "MD5": "e109dfe1ee0857e7f5c9b5f087293dd0",
             "path": "emotes/grace.json"
           }
@@ -1076,7 +1076,7 @@
           "type": "File",
           "artifact": {
             "size": 77713,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/Hands%20up.emotecraft",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/Hands%20up.emotecraft",
             "MD5": "a4e58eb4d3641cb7bc0453c74fd69e7f",
             "path": "emotes/Hands up.emotecraft"
           }
@@ -1087,7 +1087,7 @@
           "type": "File",
           "artifact": {
             "size": 45672,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/headball.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/headball.json",
             "MD5": "6167f6976f00ddf1faa88efbdf85048e",
             "path": "emotes/headball.json"
           }
@@ -1098,7 +1098,7 @@
           "type": "File",
           "artifact": {
             "size": 585,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/headspin.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/headspin.json",
             "MD5": "5fe2895e01071fb900d9b549c7791bee",
             "path": "emotes/headspin.json"
           }
@@ -1109,7 +1109,7 @@
           "type": "File",
           "artifact": {
             "size": 12768,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/headyeet.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/headyeet.json",
             "MD5": "8bdf89d711a0912d6ca8c58e49478c0b",
             "path": "emotes/headyeet.json"
           }
@@ -1120,7 +1120,7 @@
           "type": "File",
           "artifact": {
             "size": 39139,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/heart.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/heart.json",
             "MD5": "573f83b0d969f7fbe6a7c8c1c2b4f10c",
             "path": "emotes/heart.json"
           }
@@ -1131,7 +1131,7 @@
           "type": "File",
           "artifact": {
             "size": 28061,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/hearthands.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/hearthands.json",
             "MD5": "6273881d1c769ddb817a24958c868df0",
             "path": "emotes/hearthands.json"
           }
@@ -1142,7 +1142,7 @@
           "type": "File",
           "artifact": {
             "size": 5247,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/hug.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/hug.json",
             "MD5": "38e5d97d7470958ebd67fb984367e455",
             "path": "emotes/hug.json"
           }
@@ -1153,7 +1153,7 @@
           "type": "File",
           "artifact": {
             "size": 19881,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/hunchback.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/hunchback.json",
             "MD5": "2e0c68d333d33fc1d807a2c38b459203",
             "path": "emotes/hunchback.json"
           }
@@ -1164,7 +1164,7 @@
           "type": "File",
           "artifact": {
             "size": 26486,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/Inspect.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/Inspect.json",
             "MD5": "65538e0f2336fe9257bd8a22d13c696d",
             "path": "emotes/Inspect.json"
           }
@@ -1175,7 +1175,7 @@
           "type": "File",
           "artifact": {
             "size": 93290,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/into_pieces.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/into_pieces.json",
             "MD5": "b53a4435274eb55aed62228c36ef239d",
             "path": "emotes/into_pieces.json"
           }
@@ -1186,7 +1186,7 @@
           "type": "File",
           "artifact": {
             "size": 18528,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/item.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/item.json",
             "MD5": "99eb7f2dfbeb2c98f44e4df10f486700",
             "path": "emotes/item.json"
           }
@@ -1197,7 +1197,7 @@
           "type": "File",
           "artifact": {
             "size": 18703,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/jump.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/jump.json",
             "MD5": "c0ca4bc22981010423065dcb0cc2e2e5",
             "path": "emotes/jump.json"
           }
@@ -1208,7 +1208,7 @@
           "type": "File",
           "artifact": {
             "size": 69969,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/jumping%20jacks.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/jumping%20jacks.json",
             "MD5": "858e43c368aa32faddd484ecbb6aeaef",
             "path": "emotes/jumping jacks.json"
           }
@@ -1219,7 +1219,7 @@
           "type": "File",
           "artifact": {
             "size": 13910,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/Lay%20on%20back.emotecraft",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/Lay%20on%20back.emotecraft",
             "MD5": "2fab19ffa1ce0be048433ab881650d63",
             "path": "emotes/Lay on back.emotecraft"
           }
@@ -1230,7 +1230,7 @@
           "type": "File",
           "artifact": {
             "size": 73953,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/lay_down5.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/lay_down5.json",
             "MD5": "b8971579d9ce4e4d6a6411b1d4d5b1b1",
             "path": "emotes/lay_down5.json"
           }
@@ -1241,7 +1241,7 @@
           "type": "File",
           "artifact": {
             "size": 14477,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/lean.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/lean.json",
             "MD5": "a9bd9dc175588b72d971e92204d63548",
             "path": "emotes/lean.json"
           }
@@ -1252,7 +1252,7 @@
           "type": "File",
           "artifact": {
             "size": 7799,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/lejat.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/lejat.json",
             "MD5": "2393c2bb47ea0e43e1b5e35e3b822263",
             "path": "emotes/lejat.json"
           }
@@ -1263,7 +1263,7 @@
           "type": "File",
           "artifact": {
             "size": 14998,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/lookaround.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/lookaround.json",
             "MD5": "21a344aec52e2ef65e88dc7e3177a61f",
             "path": "emotes/lookaround.json"
           }
@@ -1274,7 +1274,7 @@
           "type": "File",
           "artifact": {
             "size": 45866,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/make_gestures.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/make_gestures.json",
             "MD5": "280454b585004c99f57c94e763767dd3",
             "path": "emotes/make_gestures.json"
           }
@@ -1285,7 +1285,7 @@
           "type": "File",
           "artifact": {
             "size": 38490,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/meditation_fly.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/meditation_fly.json",
             "MD5": "07848bd812a3d465f75bbf3215d6ae45",
             "path": "emotes/meditation_fly.json"
           }
@@ -1296,7 +1296,7 @@
           "type": "File",
           "artifact": {
             "size": 49674,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/meeting.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/meeting.json",
             "MD5": "f4fb80db2fd4c92185c84782664bea21",
             "path": "emotes/meeting.json"
           }
@@ -1307,7 +1307,7 @@
           "type": "File",
           "artifact": {
             "size": 5534,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion1.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion1.json",
             "MD5": "78ffd294a0f25d29706098bd614ec614",
             "path": "emotes/motion1.json"
           }
@@ -1318,7 +1318,7 @@
           "type": "File",
           "artifact": {
             "size": 36800,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion1.png",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion1.png",
             "MD5": "e43334b0c6da2e6c9819abeacb20c45c",
             "path": "emotes/motion1.png"
           }
@@ -1329,7 +1329,7 @@
           "type": "File",
           "artifact": {
             "size": 2547,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion2.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion2.json",
             "MD5": "1ac8df20a1a0235b09f48b0a3d16e68b",
             "path": "emotes/motion2.json"
           }
@@ -1340,7 +1340,7 @@
           "type": "File",
           "artifact": {
             "size": 34967,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion2.png",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion2.png",
             "MD5": "97d74e362ed9c6cd7446d1c74a34de4d",
             "path": "emotes/motion2.png"
           }
@@ -1351,7 +1351,7 @@
           "type": "File",
           "artifact": {
             "size": 3890,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion3.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion3.json",
             "MD5": "c379202dff697d0ca9b223992f1680a7",
             "path": "emotes/motion3.json"
           }
@@ -1362,7 +1362,7 @@
           "type": "File",
           "artifact": {
             "size": 36113,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion3.png",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion3.png",
             "MD5": "0fc2a98f11effbbe96ba47d182191013",
             "path": "emotes/motion3.png"
           }
@@ -1373,7 +1373,7 @@
           "type": "File",
           "artifact": {
             "size": 2794,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion4.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion4.json",
             "MD5": "86bdd0fd8c4dbc01cb2c8b492e6ddb7f",
             "path": "emotes/motion4.json"
           }
@@ -1384,7 +1384,7 @@
           "type": "File",
           "artifact": {
             "size": 35678,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion4.png",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion4.png",
             "MD5": "0d6effdfeac6d6b640ec29d207ca00b7",
             "path": "emotes/motion4.png"
           }
@@ -1395,7 +1395,7 @@
           "type": "File",
           "artifact": {
             "size": 2762,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion5.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion5.json",
             "MD5": "92709ed73f45828def6923aac155c42f",
             "path": "emotes/motion5.json"
           }
@@ -1406,7 +1406,7 @@
           "type": "File",
           "artifact": {
             "size": 35864,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion5.png",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion5.png",
             "MD5": "a539abb9cac10e32bd5de80ef5a6698a",
             "path": "emotes/motion5.png"
           }
@@ -1417,7 +1417,7 @@
           "type": "File",
           "artifact": {
             "size": 2117,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion6.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion6.json",
             "MD5": "b08017924f59d55f590ad52b882c468a",
             "path": "emotes/motion6.json"
           }
@@ -1428,7 +1428,7 @@
           "type": "File",
           "artifact": {
             "size": 36372,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion6.png",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion6.png",
             "MD5": "800d81f820779a89bcfa5eeebd43b7a0",
             "path": "emotes/motion6.png"
           }
@@ -1439,7 +1439,7 @@
           "type": "File",
           "artifact": {
             "size": 3017,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion7.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion7.json",
             "MD5": "1d9115a47e4935ee743f450d8f6294d0",
             "path": "emotes/motion7.json"
           }
@@ -1450,7 +1450,7 @@
           "type": "File",
           "artifact": {
             "size": 34753,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion7.png",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion7.png",
             "MD5": "5d74f8b78309063bc50fb2f1ee1e81a7",
             "path": "emotes/motion7.png"
           }
@@ -1461,7 +1461,7 @@
           "type": "File",
           "artifact": {
             "size": 779,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion8.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion8.json",
             "MD5": "1795ab7a3bf0fb2a82d806c7edf20b90",
             "path": "emotes/motion8.json"
           }
@@ -1472,7 +1472,7 @@
           "type": "File",
           "artifact": {
             "size": 36883,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/motion8.png",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/motion8.png",
             "MD5": "ccedcab2019f4582cae3794389e7f783",
             "path": "emotes/motion8.png"
           }
@@ -1483,7 +1483,7 @@
           "type": "File",
           "artifact": {
             "size": 78415,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/narutonew.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/narutonew.json",
             "MD5": "b6e7cfe2697113be269538422aedce47",
             "path": "emotes/narutonew.json"
           }
@@ -1494,7 +1494,7 @@
           "type": "File",
           "artifact": {
             "size": 2817,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/nervous.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/nervous.json",
             "MD5": "0677558fccd3f31e28e2879f61987e7c",
             "path": "emotes/nervous.json"
           }
@@ -1505,7 +1505,7 @@
           "type": "File",
           "artifact": {
             "size": 165358,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/orange%20justice.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/orange%20justice.json",
             "MD5": "1500c67434dd3913bd4be2043b76393b",
             "path": "emotes/orange justice.json"
           }
@@ -1516,7 +1516,7 @@
           "type": "File",
           "artifact": {
             "size": 25977,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/penguin.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/penguin.json",
             "MD5": "f6426d3166c7a795a2744bce36abf16a",
             "path": "emotes/penguin.json"
           }
@@ -1527,7 +1527,7 @@
           "type": "File",
           "artifact": {
             "size": 58216,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/Salute.emotecraft",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/Salute.emotecraft",
             "MD5": "c8f2336f2836a22ed4516e734f6a7797",
             "path": "emotes/Salute.emotecraft"
           }
@@ -1538,7 +1538,7 @@
           "type": "File",
           "artifact": {
             "size": 7760,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/selfie.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/selfie.json",
             "MD5": "60c84de1a4a26804aa422bb61e9b067f",
             "path": "emotes/selfie.json"
           }
@@ -1549,7 +1549,7 @@
           "type": "File",
           "artifact": {
             "size": 13980,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/shake.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/shake.json",
             "MD5": "37e00fe9a10ddae72eabbf1eaa8d8257",
             "path": "emotes/shake.json"
           }
@@ -1560,7 +1560,7 @@
           "type": "File",
           "artifact": {
             "size": 4046,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/sit.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/sit.json",
             "MD5": "c2f7665f38396cf191628268d2140282",
             "path": "emotes/sit.json"
           }
@@ -1571,7 +1571,7 @@
           "type": "File",
           "artifact": {
             "size": 3581,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/sitting.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/sitting.json",
             "MD5": "cab2dca1b12ccd608878fbfd4fcadf9d",
             "path": "emotes/sitting.json"
           }
@@ -1582,7 +1582,7 @@
           "type": "File",
           "artifact": {
             "size": 26478,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/smoking%20loop.emotecraft",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/smoking%20loop.emotecraft",
             "MD5": "fe968567f73a7decba51bb0f7824fcb1",
             "path": "emotes/smoking loop.emotecraft"
           }
@@ -1593,7 +1593,7 @@
           "type": "File",
           "artifact": {
             "size": 86075,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/take%20the%20l.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/take%20the%20l.json",
             "MD5": "e64c2df588849bf33c82e0abdb0f8e28",
             "path": "emotes/take the l.json"
           }
@@ -1604,7 +1604,7 @@
           "type": "File",
           "artifact": {
             "size": 23732,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/the_dab.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/the_dab.json",
             "MD5": "6483190647136ed0430ee1b5da2ed31d",
             "path": "emotes/the_dab.json"
           }
@@ -1615,7 +1615,7 @@
           "type": "File",
           "artifact": {
             "size": 2799,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/tpose.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/tpose.json",
             "MD5": "63c1c3006a62418cc7cc10a1812bc58f",
             "path": "emotes/tpose.json"
           }
@@ -1626,7 +1626,7 @@
           "type": "File",
           "artifact": {
             "size": 53912,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/emotes/Twerk.json",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/emotes/Twerk.json",
             "MD5": "bbc3354e01b2b61f7fe6b79c4554557a",
             "path": "emotes/Twerk.json"
           }
@@ -1637,7 +1637,7 @@
           "type": "File",
           "artifact": {
             "size": 4336545,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/kingkong_pack.zip",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/kingkong_pack.zip",
             "MD5": "8f56b53ce8a41d9963e336840d05e0cf",
             "path": "kingkong_pack.zip"
           }
@@ -1648,7 +1648,7 @@
           "type": "File",
           "artifact": {
             "size": 6179,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/options.txt",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -1658,7 +1658,7 @@
           "type": "File",
           "artifact": {
             "size": 18582408,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/resourcepacks/kingkong_pack.zip",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/resourcepacks/kingkong_pack.zip",
             "MD5": "661ca32517c75917a3a9c49b8fbfaad3",
             "path": "resourcepacks/kingkong_pack.zip"
           }
@@ -1669,7 +1669,7 @@
           "type": "File",
           "artifact": {
             "size": 4062,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/servers.dat",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/servers.dat",
             "MD5": "f733f723a75d550f528b38e4f401d3e3",
             "path": "servers.dat"
           }
@@ -1680,7 +1680,7 @@
           "type": "File",
           "artifact": {
             "size": 4063,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/servers.dat_old",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/servers.dat_old",
             "MD5": "89d1243a76b1e29d3715c4fc9adb5d79",
             "path": "servers.dat_old"
           }
@@ -1691,7 +1691,7 @@
           "type": "File",
           "artifact": {
             "size": 452408,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.4.zip",
             "MD5": "94f56d5c5c343b9a0f4ad7eb135f9afa",
             "path": "shaderpacks/ComplementaryUnbound_r5.4.zip"
           }
@@ -1702,7 +1702,7 @@
           "type": "File",
           "artifact": {
             "size": 1037011,
-            "url": "https://usmsori.com/kingkong/servers/kingkong-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.500.zip",
+            "url": "http://mc.gitter0.xyz:8080/servers/kingkong-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.500.zip",
             "MD5": "f40d99b836ebfb633d4bb49469541221",
             "path": "shaderpacks/Insanity-Shader-Universal-v1.500.zip"
           }
